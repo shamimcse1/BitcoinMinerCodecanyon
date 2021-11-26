@@ -208,8 +208,9 @@ public class SignUpActivity extends AppCompatActivity {
                 Toasty.error(getApplicationContext(), "Something went wrong. Please try again", Toast.LENGTH_LONG, true).show();
             }
             else {
-                Toast.makeText(getApplicationContext(), "Something went wrong" + result,
+                Toast.makeText(getApplicationContext(), "Something went wrong : " + result,
                         Toast.LENGTH_LONG).show();
+                Log.d("Error is : ",result);
             }
 
             closeProgressBar();

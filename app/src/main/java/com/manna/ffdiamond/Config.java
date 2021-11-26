@@ -3,7 +3,7 @@ package com.manna.ffdiamond;
 public class Config {
 
     // Your Admin Panel URL :
-    public static final String adminPanelUrl = "https://topmoveicollection.xyz/admin";
+    public static final String adminPanelUrl = "https://topmoveicollection.xyz/";
 
     // Your Email Address:
     public static final String emailAddress = "youremail@domain.com";

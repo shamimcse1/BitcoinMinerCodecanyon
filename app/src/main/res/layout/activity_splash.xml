@@ -11,10 +11,12 @@
         android:id="@+id/logo"
         android:layout_width="150dp"
         android:layout_height="150dp"
-        android:src="@drawable/app_icon250"
+        android:src="@drawable/app_logo"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"/>
 
-    <include layout="@layout/no_internet" android:visibility="invisible"/>
+    <include
+        layout="@layout/no_internet"
+        android:visibility="invisible" />
 
 </RelativeLayout>

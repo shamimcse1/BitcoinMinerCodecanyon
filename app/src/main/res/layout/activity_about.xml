@@ -74,7 +74,7 @@
                             <ImageView
                                 android:layout_width="@dimen/spacing_xxlarge"
                                 android:layout_height="@dimen/spacing_xxlarge"
-                                android:src="@drawable/app_icon250" />
+                                android:src="@drawable/diamond" />
 
                             <View
                                 android:layout_width="@dimen/spacing_large"
@@ -122,8 +122,8 @@
                                 android:layout_width="@dimen/spacing_xmlarge"
                                 android:layout_height="@dimen/spacing_xmlarge"
                                 android:background="@android:color/transparent"
-                                android:tint="@color/colorAccent"
-                                app:srcCompat="@drawable/ic_info" />
+                                app:srcCompat="@drawable/ic_info"
+                                app:tint="@color/colorAccent" />
 
                             <View
                                 android:layout_width="@dimen/spacing_mlarge"
@@ -175,8 +175,8 @@
                                 android:layout_width="@dimen/spacing_xmlarge"
                                 android:layout_height="@dimen/spacing_xmlarge"
                                 android:background="@android:color/transparent"
-                                android:tint="@color/colorAccent"
-                                app:srcCompat="@drawable/ic_web" />
+                                app:srcCompat="@drawable/ic_web"
+                                app:tint="@color/colorAccent" />
 
                             <View
                                 android:layout_width="@dimen/spacing_mlarge"
@@ -211,8 +211,8 @@
                                 android:layout_width="@dimen/spacing_xmlarge"
                                 android:layout_height="@dimen/spacing_xmlarge"
                                 android:background="@android:color/transparent"
-                                android:tint="@color/colorAccent"
-                                app:srcCompat="@drawable/ic_verified" />
+                                app:srcCompat="@drawable/ic_verified"
+                                app:tint="@color/colorAccent" />
 
                             <View
                                 android:layout_width="@dimen/spacing_mlarge"
@@ -281,8 +281,8 @@
                                 android:layout_width="@dimen/spacing_xmlarge"
                                 android:layout_height="@dimen/spacing_xmlarge"
                                 android:background="@android:color/transparent"
-                                android:tint="@color/colorAccent"
-                                app:srcCompat="@drawable/ic_business" />
+                                app:srcCompat="@drawable/ic_business"
+                                app:tint="@color/colorAccent" />
 
                             <View
                                 android:layout_width="@dimen/spacing_mlarge"

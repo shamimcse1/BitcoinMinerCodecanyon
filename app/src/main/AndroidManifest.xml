@@ -42,7 +42,7 @@
             android:parentActivityName="com.manna.ffdiamond.MainActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.manna.ffdiamond.activity.SplashActivity"
+            android:name=".activity.SplashActivity"
             android:screenOrientation="portrait"
             android:exported="true">
             <intent-filter>
@@ -65,8 +65,12 @@
             android:name="com.manna.ffdiamond.activity.FeedbackActivity"
             android:parentActivityName="com.manna.ffdiamond.MainActivity"
             android:screenOrientation="portrait" />
+
+
+
         <activity
-            android:name="com.manna.ffdiamond.MainActivity"
+
+            android:name=".MainActivity"
             android:screenOrientation="portrait" />
 
         <activity
@@ -77,9 +81,11 @@
             android:name="com.google.android.gms.ads.APPLICATION_ID"
             android:value="@string/admob_app_id" />
 
-<!--        <meta-data android:name="applovin.sdk.key"-->
-<!--            android:value="hto-qizScPNAApRZCMP1-RHl6xPEXIcDAPC_69RiZptkcJIqgire97OG2oUZ56oFV-Ec7gKgUCP6ViwBQlqZtD"/>-->
+        <meta-data android:name="applovin.sdk.key"
+            android:value="hto-qizScPNAApRZCMP1-RHl6xPEXIcDAPC_69RiZptkcJIqgire97OG2oUZ56oFV-Ec7gKgUCP6ViwBQlqZtD"/>
 
+        <meta-data android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
          </application>
 
 </manifest>

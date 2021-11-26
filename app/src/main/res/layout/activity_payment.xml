@@ -55,7 +55,7 @@
                         android:layout_height="40dp"
                         android:layout_gravity="end|right"
                         android:scaleType="centerCrop"
-                        android:src="@drawable/bitcoin_logo" />
+                        android:src="@drawable/diamond" />
 
                     <TextView
                         android:id="@+id/card_number"
@@ -63,7 +63,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="@dimen/spacing_medium"
                         android:fontFamily="monospace"
-                        android:text="Bitcoin"
+                        android:text="Diamond"
                         android:textAppearance="@style/Base.TextAppearance.AppCompat.Headline"
                         android:textColor="@android:color/white" />
 
@@ -103,7 +103,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:fontFamily="monospace"
-                        android:text="Coinbase Wallet"
+                        android:text="Diamond base Wallet"
                         android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
                         android:textColor="@android:color/white" />
 

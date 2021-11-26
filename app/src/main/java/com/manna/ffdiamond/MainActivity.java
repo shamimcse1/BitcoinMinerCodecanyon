@@ -187,6 +187,9 @@ public class MainActivity extends AppCompatActivity implements MaxAdViewAdListen
     private void setBannerAds()
     {
 
+        try {
+
+
         if (adMobAds.contains("True"))
         {
             MobileAds.initialize(this, new OnInitializationCompleteListener() {
@@ -199,7 +202,10 @@ public class MainActivity extends AppCompatActivity implements MaxAdViewAdListen
             AdRequest adRequest = new AdRequest.Builder().build();
             adView.loadAd(adRequest);
         }
-
+        }
+        catch (Exception ex){
+            ex.printStackTrace();
+        }
     }
 
     private void setToolbar() {

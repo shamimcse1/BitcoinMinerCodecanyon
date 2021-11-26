@@ -5,6 +5,23 @@
       <map>
         <entry key="..\:/Users/Gamerz Zone/Desktop/Bitcoin miner/codecanyon-33566147-bitcoin-miner-app-with-admin-panel-and-admob/Main File/Android Code/BitcoinMinerCodecanyon V2.0.0/app/src/main/res/menu/menu_done.xml" value="0.1" />
         <entry key="..\:/Users/Gamerz Zone/Desktop/Bitcoin miner/codecanyon-33566147-bitcoin-miner-app-with-admin-panel-and-admob/Main File/Android Code/BitcoinMinerCodecanyon V2.0.0/app/src/main/res/menu/menu_main.xml" value="0.1" />
+        <entry key="..\:/Users/mdsha/Desktop/Android Code/Android Code/BitcoinMinerCodecanyon V2.0.0/app/src/main/res/layout/activity_about.xml" value="0.2" />
+        <entry key="..\:/Users/mdsha/Desktop/Android Code/Android Code/BitcoinMinerCodecanyon V2.0.0/app/src/main/res/layout/activity_feedback.xml" value="0.2" />
+        <entry key="..\:/Users/mdsha/Desktop/Android Code/Android Code/BitcoinMinerCodecanyon V2.0.0/app/src/main/res/layout/activity_help.xml" value="0.2" />
+        <entry key="..\:/Users/mdsha/Desktop/Android Code/Android Code/BitcoinMinerCodecanyon V2.0.0/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/mdsha/Desktop/Android Code/Android Code/BitcoinMinerCodecanyon V2.0.0/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/mdsha/Desktop/Android Code/Android Code/BitcoinMinerCodecanyon V2.0.0/app/src/main/res/layout/activity_math_quiz.xml" value="0.2" />
+        <entry key="..\:/Users/mdsha/Desktop/Android Code/Android Code/BitcoinMinerCodecanyon V2.0.0/app/src/main/res/layout/activity_payment.xml" value="0.25" />
+        <entry key="..\:/Users/mdsha/Desktop/Android Code/Android Code/BitcoinMinerCodecanyon V2.0.0/app/src/main/res/layout/activity_proof.xml" value="0.2" />
+        <entry key="..\:/Users/mdsha/Desktop/Android Code/Android Code/BitcoinMinerCodecanyon V2.0.0/app/src/main/res/layout/activity_quiz_result.xml" value="0.2" />
+        <entry key="..\:/Users/mdsha/Desktop/Android Code/Android Code/BitcoinMinerCodecanyon V2.0.0/app/src/main/res/layout/activity_sign_up.xml" value="0.2" />
+        <entry key="..\:/Users/mdsha/Desktop/Android Code/Android Code/BitcoinMinerCodecanyon V2.0.0/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/Users/mdsha/Desktop/Android Code/Android Code/BitcoinMinerCodecanyon V2.0.0/app/src/main/res/layout/dialog_payment.xml" value="0.2" />
+        <entry key="..\:/Users/mdsha/Desktop/Android Code/Android Code/BitcoinMinerCodecanyon V2.0.0/app/src/main/res/layout/item_payments_proof.xml" value="0.2" />
+        <entry key="..\:/Users/mdsha/Desktop/Android Code/Android Code/BitcoinMinerCodecanyon V2.0.0/app/src/main/res/layout/login_content.xml" value="0.25" />
+        <entry key="..\:/Users/mdsha/Desktop/Android Code/Android Code/BitcoinMinerCodecanyon V2.0.0/app/src/main/res/layout/no_internet.xml" value="0.2" />
+        <entry key="..\:/Users/mdsha/Desktop/Android Code/Android Code/BitcoinMinerCodecanyon V2.0.0/app/src/main/res/layout/proof_content.xml" value="0.2" />
+        <entry key="..\:/Users/mdsha/Desktop/Android Code/Android Code/BitcoinMinerCodecanyon V2.0.0/app/src/main/res/menu/menu_done.xml" value="0.1" />
         <entry key="..\:/Users/mdsha/Desktop/Android Code/Android Code/BitcoinMinerCodecanyon V2.0.0/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21614583333333334" />
         <entry key="..\:/Users/mdsha/Desktop/Android Code/Android Code/BitcoinMinerCodecanyon V2.0.0/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.21614583333333334" />
       </map>

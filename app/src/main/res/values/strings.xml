@@ -22,7 +22,7 @@
     <string name="Main_Mocoins">Your Points</string>
     <string name="Main_Zero">0</string>
     <string name="Main_Start">Start Earn</string>
-    <string name="Main_MakeMoney">to make Bitcion</string>
+    <string name="Main_MakeMoney">to make Diamond</string>
     <string name="Main_Proof">Payments Proof</string>
     <string name="Main_subProof">Proof of payment to users</string>
     <string name="Main_Payments">Payment</string>
@@ -70,19 +70,19 @@
 
     <!-- Payment -->
     <string name="payment_alert">* You need to have account in Coinbase to use it in cashout.</string>
-    <string name="payment_mas">Please enter the email address that you would like to use for Coinbase:</string>
+    <string name="payment_mas">Please enter the email address that you would like to use for Diamond base:</string>
     <string name="payment_req">You need to have at least 10000 points to cash out.</string>
     <string name="payment_request">Payment Request</string>
-    <string name="payment_convert">10000 Points = 0.000001 Bitcoin</string>
+    <string name="payment_convert">10000 Points = 0.000001 Diamond</string>
 
     <!-- Help page -->
-    <string name="Faq_title_1">How do I earn Bitcoin?</string>
+    <string name="Faq_title_1">How do I earn Diamond?</string>
     <string name="Faq_text_1">Simply all you have to do is watch the advertising websites for a short time and then the points will be added.</string>
 
     <string name="Faq_title_2">What is a Points?</string>
-    <string name="Faq_text_2">The points you earn are converted into Bitcoin upon withdrawal.</string>
+    <string name="Faq_text_2">The points you earn are converted into Diamond upon withdrawal.</string>
     <string name="Faq_title_3">When can I withdraw?</string>
-    <string name="Faq_text_3">You can withdraw to your Bitcoin wallet when you have completed the minimum withdrawal amount.</string>
+    <string name="Faq_text_3">You can withdraw to your Diamond wallet when you have completed the minimum withdrawal amount.</string>
 
     <string name="Faq_title_4">minimum to withdraw?</string>
     <string name="Faq_text_4">The minimum withdrawal amount is 10000 points</string>
@@ -97,7 +97,7 @@
 
 
     <!-- Share App Text -->
-    <string name="Share_Text">Best App to Make Bitcoin From Your Phone Download it Now: \n</string>
+    <string name="Share_Text">Best App to Make Diamond From Your Phone Download it Now: \n</string>
 
 
     <!-- Strings of Admob Ads -->
